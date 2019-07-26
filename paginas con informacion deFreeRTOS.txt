@@ -1,0 +1,4 @@
+https://feilipu.me/2015/11/24/arduino_freertos/
+http://www.freertos.org/
+https://aprendiendoarduino.wordpress.com/tag/rtos/
+http://www.coffeebrain.org/wiki/index.php?title=Arduino-UNO:_Pasos_para_implementar_FreeRTOS_en_Arduino
